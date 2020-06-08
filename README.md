@@ -10,6 +10,24 @@
     user-2 should be in the EC2-Support group
     user-3 should be in the EC2-Admin group
 
+# ----------------------------------------------------------------------------------------------
+
+1. Log into aws cloud
+
+2. Click services, in the search box type IAM, hit enter
+
+3. At Top right corner check region; IAM is for global
+
+
+
+
+
+
+
+
+# ----------------------------------------------------------------------------------------------
+
+
 
 # Use the IAM Sign-in Link to Sign In As a User
 
